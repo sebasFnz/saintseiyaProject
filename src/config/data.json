@@ -1,0 +1,207 @@
+[{
+  "_id": {
+    "$oid": "642080765d665474c47ec5c6"
+  },
+  "name": "Sasha",
+  "intro": "Sasha (サーシャ, Sāsha) es la reencarnación de Athena en el siglo XVIII en Saint Seiya The Lost Canvas (El Lienzo Perdido). Pasó su infancia en un orfanato en Italia con Tenma y su hermano Alone (huésped del dios Hades), antes de ser llevada al Santuario por Sísifo de Sagitario.",
+  "apperence": "Tiene una apariencia similar a Saori Kido, su cabello es color lila, sus ojos son verdes y su túnica es blanca. Las diferencias con Saori son sutiles como: la pulsera en su mano derecha, el cabello posee un tono más claro, sus ojos tienen una tonalidad más verde (los de Saori poseen un tono azulado), además de poseer el busto más grande que Saori.\nViste un vestido blanco y sin mangas hasta el ataque de Hades en el Santuario. Después se le agregan más detalles: se le agrega un cuello alto y mangas largas y holgadas que dejan descubiertos los hombros. Esto le da una apariencia más elegante. También en los últimos tomos del manga se corta el cabello. Como curiosidad Saori hace lo mismo en Next Dimension. ",
+  "born": "8 de marzo",
+  "genre": "Femenino",
+  "age": "14",
+  "height": "159",
+  "weight": "47",
+  "place_birth": "Ciudad italiana",
+  "armor": "Cloth de Athena",
+  "weapons": "Niké",
+  "membership": [
+    "Saints"
+  ],
+  "habilities": [
+    "Posee dominio completo de la energía conocida como Cosmos.",
+    "Tiene la habilidad de escuchar a las almas de las personas, especialmente de aquellas que han muerto o han caído en la oscuridad.",
+    "Puede crear campos de protección a gran escala.",
+    "Tiene la habilidad de separar el alma de su cuerpo.",
+    "Puede conceder el Misopethamenos."
+  ],
+  "personality": "Sasha es una persona muy dulce y muy amable (incluso parece serlo mucho más que Saori) para quien su relación de amistad con Tenma y su hermano Alone, siempre fue lo más importante tanto es así que cuando es llevada al santuario por Sisifo de Sagitario llora durante mucho tiempo anhelando regresar con ellos, hasta en el Gaiden de Kardia donde el propio Kardia al ver su indecisión, dice que ´´no sabe lo que quiere´´ lo cual no es verdad, sin embargo Sasha es una persona con una gran fortaleza y lo demuestra al ser consciente de su papel como Diosa de la tierra, desde pequeña y aceptando su papel a pesar del sacrificio que ello conlleva, otra demostración de su fuerza es cuando ve a Alone convertido en Hades y a pesar de ser su hermano decide enfrentarlo, para proteger al mundo aunque también suele conmoverse por la muerte de sus santos, ya que llora cuando Shion y Dohko matan a los 3 santos de plata, pero al mismo tiempo muestra gran solidez cuando le anuncian la muerte de Tenma, incluso ella siente gran tristeza también por los espectros que murieron (se lo dice abiertamente a Kagaho). "
+},{
+  "_id": {
+    "$oid": "64208baa5d665474c47ec5c7"
+  },
+  "name": "Tenma de Pegasus",
+  "intro": "Tenma de Pegasus (天馬星座の天馬, Pegasasu no Tenma) es el Santo de Bronce de Pegasus durante la Guerra Santa contra Hades en el Siglo XVII y que exclusivamente en la versión de la historia contada en el Spin-Off The Lost Canvas. Se crió con Alone y Sasha; los tres se tratan como hermanos, Dohko es su maestro y es hijo de un dios Exiliado.",
+  "apperence": "Tenma es de cabello café, ojos marrones rojizos, según su mejor amigo, de alta estatura cuando es Caballero, de baja cuando era un niño. Su vestimenta de niño fue una camisa y un pantalón con tirantes, también llevaba sus manos vendadas. Ya como aspirante a ser un Santo, se lo ve portando su ropa de entrenamiento y esa ropa la llevaría hasta antes de portar su cloth, cuando viste su Cloth utiliza una vestimenta de color rojo.",
+  "personality": "De niño demuestra ser agresivo, rudo y protector, en especial con Alone. Tenma es de noble corazón, como se lo demostró al principio para no dejar que su aldea se inunde a costa de sacrificarse él mismo. Ha demostrado cariño con todos los que conoce, también demuestra depresión como en la muerte de Hasgard, hasta piensa en huir de la batalla. Es muy sociable, ya que hablo hasta con El Cid de Capricorn, Santo que era muy frió. Muchas veces, cuando moría la gente, él pensaba que era débil y se culpaba por ello, sin embargo en la pelea final contra Alone, Tenma está decidido en salvarlo y demuestra mucha confianza en el mismo. Tiene similitudes con su contraparte del futuro Seiya de Pegasus, es muy optimista e impulsivo, también se preocupa mucho por Athena o Sasha, y él luego de aprender mucho de los Santos de Oro, decide no rendirse jamás.",
+  "born": "5 de diciembre",
+  "genre": "Masculino",
+  "age": "15",
+  "height": "168",
+  "weight": "56",
+  "place_birth": "Desconocido",
+  "armor": "Cloth de Pegasus",
+  "membership": [
+    "Saints"
+  ],
+  "weapons": "ninguna",
+  "habilities": [
+    "Pegasus Ryūsei Ken",
+    "Pegasus Suisei Ken",
+    "Puede crear campos de protección a gran escala."
+  ]
+},{
+  "_id": {
+    "$oid": "64208f4f5d665474c47ec5c9"
+  },
+  "name": "Alone",
+  "intro": "Alone (アローン, Arōn), un joven pintor italiano, es el cuerpo elegido para ser huésped de Hades en la Guerra Santa de 1743. Es el mejor amigo de Tenma de Pegasus y el hermano mayor de Sasha y también el antagonista principal del Lost Canvas utilizando los poderes de Hades.",
+  "apperence": "Alone es un joven de cabello largo en un estilo similar al de su hermana Sasha pero de color rubio y ojos azules, con expresión amable, lleva un abrigo largo y negro con el cuello dorado y cerrado al frente y una cinta larga atada a la cintura a modo de cinturón color morado, un pantalón blanco y unas alpargatas negras, también una medalla colgada en su cuello que podría ser un recuerdo de su infancia o del orfanato. Como Hades lleva una vestimenta similar aunque con ligeros cambios: un abrigo más largo, en los brazos y en las piernas al igual que la cinta, unas hombreras doradas similares a las que llevaba como Shun, el cabello negro tras su transformación como Hades y más largo; y la expresión de su mirada también cambia a una mirada llena de frialdad y en ocasiones de burla.",
+  "personality": "Alone al ser cuerpo de Hades en su era, posee las cualidades de todo huesped ideal del rey del inframundo: ser una persona de corazón puro, gentil, amable con todos. Alone es capaz de luchar por la justicia o no resolver los conflictos por la violencia. Ya como \"Hades\", él piensa en crear un mundo donde no exista guerra y sufrimiento, viendo la \"muerte como salvación\", aun así como Hades, siente un especial cariño a su mejor amigo Tenma de Pegaso pidiéndole acompañarlo a crear su mundo junto a su hermana Sasha. Luego de que ambos se negaran. Alone decidió limpiar sus \"almas\" buscando la forma de matarlos. Su personalidad fue borrada por Hypnos, para que el renacimiento de Hades esté completo, sin embargo, esto no duraría por mucho. Luego de que Hades sea sacado del cuerpo de Alone, éste recuperaría su personalidad antes de ser poseído por el dios. ",
+  "born": "24 de diciembre",
+  "genre": "Masculino",
+  "age": "15",
+  "height": "167",
+  "weight": "54",
+  "place_birth": "Ciudad italiana",
+  "armor": "Surplice de Hades",
+  "membership": [
+    "Specters",
+    "Guardianes estelares"
+  ],
+  "weapons": "Espada de Hades",
+  "habilities": [
+    "Todo lo que pinta Alone acaba muriendo.",
+    "Alone puede traer de nuevo a la vida a determinados guerreros.",
+    "Alone es capaz de flotar en el aire.",
+    "Alone es capaz de inmovilizar a sus oponentes aunque estos se traten de Santos de Oro.",
+    "Alone puedo regresar la flecha de Sísifo de Sagitario contra él clavándose en su pecho lo cual provocó que el Santo entrase en un coma sin poder despertar.",
+    "Alone puede enviar una poderosa ráfaga de cosmos que golpea al enemigo.",
+    " Alone puede envíar una corriente de aire que empuja al enemigo cuando intentan golpearlo.",
+    "Aunque no ha entrenado para manejar armas, Alone demuestra una gran habilidad en el combate con la espada de la Surplice de Hades. ",
+    "Alone puede crear varias esferas de gran tamaño que se lanzan contra su enemigo.",
+    "Alone puede absorber una técnica de su oponente y seguidamente lanzarla contra este.",
+    "Alone puede controlar como si fuera un títere el cuepo muerto de una persona."
+  ]
+},{
+  "_id": {
+    "$oid": "642092b95d665474c47ec5ca"
+  },
+  "name": "Shion de Aries",
+  "intro": "Shion (シオン, Shion) fue el Saint de Aries en la Guerra Santa de 1747 y mejor amigo de Dohko. Tras la finalización de la guerra contra Hades, Shion sería promovido al cargo de Papa. Fue el segundo mentor de Teneo y el maestro de Mū (después del desempeño de su cargo por más de 230 años). Muere asesinado por Saga, Saint de Géminis.",
+  "apperence": "Shion es un joven alto de largos cabellos con el mismo semblante de Mū y Kiki, así como los dos tikas en la frente símbolo de la raza ficticia de los muvianos. Posee el cabello largo de color lima-limón, con tonos verdosos.",
+  "personality": "Shion posee un carácter bastante sereno, reservado y piensa las cosas antes de ejecutarlas. A la vez, es decidido y es consciente del curso que la guerra está tomando, así como de los sacrificios que se deben tomar. También mostró un lado muy temperamental frente a su antiguo maestro Hakurei de Altar.",
+  "born": "30 de marzo",
+  "genre": "Masculino",
+  "age": "18",
+  "height": "185",
+  "weight": "77",
+  "place_birth": "TíbetW, Jamir",
+  "armor": "Cloth de Aries",
+  "membership": [
+    "Saints"
+  ],
+  "weapons": "Ninguna",
+  "habilities": [
+    "Crystal Wall",
+    "Stardust Revolution",
+    "Starlight Extinction",
+    "Athena Exclamation",
+    "Seki Shiki Tenryō Ha",
+    "Crystal Robe",
+    "Golden Light",
+    "Teletransportación"
+  ]
+},{
+  "_id": {
+    "$oid": "642094735d665474c47ec5cb"
+  },
+  "name": "Dohko de Libra",
+  "intro": "Dohko (童虎, dōko) fue junto a Shion, un veterano de la Guerra Santa de 1747 y también el Santo de Libra. Fue sobreviviente de tal guerra contra la armada de Hades, en la cual fue bendecido por Athena con el Misopethamenos, y se dedicó a cuidar la Torre de las 108 Estrellas Oscuras en los Cinco Picos durante más de 243 años. Fue el primer maestro de Tenma y en su vejez, el maestro de Shiryū, como se muestra en el epílogo de The Lost Canvas.",
+  "apperence": "Dohko es de contextura delgada y musculosa. Tiene el cabello un poco largo de color marrón rojizo con ojos marrones. Gracias a la técnica del Misopethamenos, logra mantener su cuerpo de 18 años disfrazado como el de 243 años, ya que esta técnica disminuye los latidos del corazón a un día al año. Dohko estando en su aspecto de anciano de 243 años, su apariencia cambia drásticamente; ahora está muy bajo de estatura y su cabello se torna de color blanco gracias a la vejez, y también hay que acotar que también tiene una gran barba blanca.",
+  "personality": "Es descrito como una persona Impulsiva, impetuosa, bipolar depende de la situación, puede pasar de una persona alegre bromista a una persona colérica agresiva y de mal carácter. En algunas ocasiones suele ser arrogante ya que está orgulloso de quien es y lo que sus acciones conllevan, puede llegar a ser un hombre jactancioso además de intransigente cuando tiene una idea en mente no le importa desacatar ordenes cuando cree que algo es correcto, es sobre protector con sus seres queridos. Se podría decir que es un hombre con más defectos que virtudes es por eso que lo hacen una persona distinta al resto, que habla y actúa sin displicencia alguna.",
+  "born": "20 de octubre",
+  "genre": "Masculino",
+  "age": "18",
+  "height": "170",
+  "weight": "71",
+  "place_birth": "China",
+  "armor": "Cloth de Libra",
+  "membership": [
+    "Saints"
+  ],
+  "weapons": "Armas de Libra",
+  "habilities": [
+    "Rozan Shō Ryū Ha",
+    "Rozan Hyaku Ryū Ha",
+    "Yūko Sennin Enbu",
+    "Rozan Kōuryūha",
+    "Rozan Ryūhishō",
+    "Golden Light"
+  ]
+},{
+  "_id": {
+    "$oid": "642095b45d665474c47ec5cc"
+  },
+  "name": "Pandora",
+  "intro": "Pandora (パンドラ, Pandora) es un personaje del manga y anime The Lost Canvas, en la guerra santa de los Santos de Atenea contra los Espectros de Hades en el siglo XVII, ella juega un papel muy importante pues es una de los antagonistas principales de la trama.",
+  "apperence": "Pandora es una mujer alta de estatura, de fisico muy exuberante, muy bien proporcionada, de cabello negro y largo y piel blanca y tersa, usualmente viste prendas de un estilo gótico, generalmente vestidos, los cuales llegan ser sugestivos, ya que muestra su bien proporcionado fisico (se trate de su enorme busto o sus piernas bien torneadas), ya sea por sus atuendos o aparecer en poses ciertamente sensuales (sobre todo en el manga, donde por ejemplo, llega a versele sentada cruzando las piernas), es de las pocas chicas de la franquicia que llega a proporcionar Fanservice sin llegar a exagerar.",
+  "personality": "A diferencia de su reencarnación del siglo XX la cual resulta ser muy calculadora, seria y sádica esta Pandora resulta mas expresiva con sus emociones, esto se demuestra durante toda la Guerra Santa cuando se se demuestra su frustración generalmente gritando, así como es mas grosera, escandalosa, sarcástica, traicionera y burlesca.Así como se le ha mostrado llorando completamente por la muerte de Radamanthys e incluso quedando paralizada al volver a ver Partita cabe nota que ella resulta ser muy fría y sádica si se lo propone puesto que a pesar del gran aprecio que siente por Rhadamanthys lo trata como si fuera un perro a un juguete que puede reemplazar.La únicas veces que se le ha visto algo cariñosa es con Alone cuando creía que este era Hades, su amado hermano, pero al descubrir que no es así se sintió traicionada y decepcionada tanto así que llego a odiar a Alone más aun de lo que odia a Athena y a todos sus santos. ",
+  "born": "25 de junio",
+  "genre": "Femenino",
+  "age": "19",
+  "height": "168",
+  "weight": "55",
+  "place_birth": "Desconocido",
+  "armor": "Ninguno",
+  "membership": [
+    "Hades"
+  ],
+  "weapons": "Arpa y lanza",
+  "habilities": [
+    "Noble Venom"
+  ]
+},{
+  "_id": {
+    "$oid": "642096da5d665474c47ec5cd"
+  },
+  "name": "Yato de Unicorn",
+  "intro": "Yato (耶人, Yato) fue el Santo de Unicornio en el siglo XVIII hasta su retiro obligado tras la guerra santa contra Hades. Yato fue el amigo de Yuzuriha de Crane y Tenma de Pegaso en el Santuario aunque no se llevaba muy bien con él.",
+  "apperence": "Yato es un joven de ojos azules grisáceos y cabello alborotado hacia atrás de color marrón verdoso. Durante su infancia usó un magua de color púrpura tiro con detalles dorados, sujetado a unos pantalones color marfil por un cinta negra, por encima un chaleco lavanda con bordes morados; y por último unos zapatos negros. Desde que llegó al santuario usa la ropa de los aspirantes. También porta la Cloth de Unicornio.",
+  "personality": "La personalidad de Yato es impulsiva, agresiva y un poco burlona, se lo puede notar que es más agresivo con Tenma de Pegaso pero siente un afecto hacia él como su mejor amigo, cosa que confesó cuando este no despertaba por la herida de Hades. Yato al igual que Jabu de Unicorn parece sentirse atraído a Athena, ya que su sueño dado por Morfeo, soñaba que había salvado a Atenea, también es muy feliz, entusiasmado por hacer bien, eso lo tiene desde pequeño, cuando decidió salvar a su hermana que moría, él quería ser el héroe y por eso se logro hacer Saint.",
+  "born": "2 de noviembre",
+  "genre": "Masculino",
+  "age": "15",
+  "height": "169",
+  "weight": "58",
+  "place_birth": "Corea",
+  "armor": "Cloth de Unicornio",
+  "membership": [
+    "Saints"
+  ],
+  "weapons": "Espada de Athena",
+  "habilities": [
+    "Unicorn Gallop"
+  ]
+},{
+  "_id": {
+    "$oid": "642097dd5d665474c47ec5ce"
+  },
+  "name": "Yuzuriha de Crane",
+  "intro": "Yuzuriha (ユズリハ, Yuzuriha) fue la Santa de la constelación de Grus hasta su retiro. Es una joven guerrera descendiente del pueblo del continente Mu, y es la que se encarga de llevar a Yato y Tenma a las afueras de las ruinas en Italia, transportándolos a la región de Jamir. Fue aprendiz de Hakurei de Altar.",
+  "apperence": "Yuzuriha es una joven que lleva el cabello largo y de color rubio normalmente atado en una cola de caballo. En el gaiden de Yuzuriha se la ve llevando el cabello corto. Posee ojos celestes, y las cejas típicas de los muvianos. Su vestimenta antes de llevar su armadura consiste en una larga bufanda roja que perteneció a su madre, y que controla mediante telequinesis; una venda que le cubre el pecho, encima de esta venda una pequeña chaqueta roja con bordes naranjos, con un pequeño cinturón blanco, unos shorts blancos, vendas en las muñecas y parte de sus piernas. En las manos lleva guantes sin dedos marrones. En la pierna izquierda un trozo de tela morada, lleva puestas unas sandalias. En el brazo izquierdo lleva un brazalete. En su brazo derecho lleva un tatuaje que es el símbolo de su familia, hecho con la sangre de su hermano.",
+  "personality": "Yuzuriha muestra una personalidad bastante dura y seria, casi apática en su rostro, hasta el punto de parecer soberbia y arrogante. Está en constante análisis de la situación para saber la mejor forma de actuar. Ella es bastante obediente a su maestro y servicial, siguiendo el camino del honor y la justicia. Pese a ser poco expresiva, es mucho más abierta con Shion, siendo alguien con quien puede conversar sin prejuicios por ser compañeros desde la infancia. Desde la muerte de sus padres, su actitud se enfoca en vengarse de Hades, por lo que no se involucra en peleas que no sean necesarias. Como discípula de Hakurei, Yuzuriha conoce muy bien a Shion y a Manigoldo de Cancer (alumno de Sage) y tiene un gran sentido de la responsabilidad con respecto a sus misiones. Ella es menos habladora que Tenma y Yato, y solo habla cuando es para algo importante. ",
+  "born": "12 de abril",
+  "genre": "Femenino",
+  "age": "17",
+  "height": "171",
+  "weight": "54",
+  "place_birth": "Tíbet, Jamir",
+  "armor": "Cloth de Grulla",
+  "membership": [
+    "Saints"
+  ],
+  "weapons": "Echarpe",
+  "habilities": [
+    "Teletransportación",
+    "Kenbu Shōsenkyaku"
+  ]
+}]
