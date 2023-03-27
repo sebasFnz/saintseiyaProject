@@ -9,6 +9,12 @@ mongodb.connect(`${cnfg.DB_URI}`,{
     let db = client.db(`${cnfg.DB_NAME}`)
     await console.log('connectDB');
 
+    exports.getAllCharacters = async function () {
+      let a = await db.collection("character").find({}).project({_id:1,name:1}).toArray()
+      return a;
+    };
+
+
 
   } catch (err) {
     await console.log(err);
