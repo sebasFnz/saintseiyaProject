@@ -10,10 +10,15 @@ mongodb.connect(`${cnfg.DB_URI}`,{
     await console.log('connectDB');
 
     exports.getAllCharacters = async function () {
-      let a = await db.collection("character").find({}).project({_id:1,name:1}).toArray()
-      return a;
+      let characters = await db.collection("character").find({}).project({_id:1,name:1}).toArray()
+      return characters;
     };
 
+    exports.getCharacterByID =  async function (id) {
+      let filter = {'_id':ObjectId(`${id}`)}
+      let character = await db.collection("character").findOne(filter)
+      return character;
+    }
 
 
   } catch (err) {
