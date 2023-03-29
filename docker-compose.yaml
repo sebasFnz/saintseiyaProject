@@ -1,0 +1,18 @@
+version: '3'
+services:
+  api-service:
+    build: ./src/
+    ports:
+    - "5100:5100"
+    environment:
+    - PORT=5100
+    - URI_DB=mongodb://mongo:27017/sainseiya
+    - NAME_DB=sainseiya
+
+  mongo:
+    image: mongo:latest
+    ports:
+    - "27017:27017"
+    volumes:
+    - ~/src/data/mongodb:/data/db
+    - ~/src/data/mongodb_config:/data/configdb
