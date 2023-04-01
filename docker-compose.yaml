@@ -9,6 +9,10 @@ services:
     - URI_DB=mongodb://mongo:27017/sainseiya
     - NAME_DB=sainseiya
 
+  web-service:
+    build: ./saintSeiyaLTC/
+    ports:
+      - "80:80"
   mongo:
     image: mongo:latest
     ports:
